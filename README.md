@@ -2,7 +2,7 @@
 
 
  - Install `sudo apt-get install php-xdebug` 
- - Create a vh debug.loc using [vh](https://github.com/iloveyii/xdebug) 
+ - Create a vh debug.loc using [vh](https://github.com/iloveyii/vh) 
  - Verify php -m
 
  - Change port to 9000 in /etc/php/7.4/apache2/conf.d/20-xdebug.ini, restart apache2
